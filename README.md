@@ -1,1 +1,1 @@
-# data_cleaning
+Data Cleaning: Use python and isolation forest model to find outliers. And replace the outlier with N\A value, then use a neural network to get predicted value and replace the N\A value by using Keras, TensorFlow, and Python. And the average MSE that a lower value means higher accuracy for all outliers is around 0.25.
